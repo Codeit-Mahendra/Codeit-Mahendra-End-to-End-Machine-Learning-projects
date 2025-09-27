@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 56625f02dcc344a22fa937ffe61345fc1af37554
 import os
 from pathlib import Path
 import logging
@@ -47,3 +51,10 @@ for filepath in list_of_files:
             logging.info(f"Creating empty file: {filepath}")
     else:
         logging.info(f"{filename} is already exists")
+<<<<<<< HEAD
+=======
+=======
+
+import os
+>>>>>>> 2b548a384ce113300bcea1865792c571efb69751
+>>>>>>> 56625f02dcc344a22fa937ffe61345fc1af37554
