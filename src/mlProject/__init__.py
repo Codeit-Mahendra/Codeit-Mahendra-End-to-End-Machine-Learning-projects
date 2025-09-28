@@ -3,6 +3,7 @@ import os
 import sys
 import logging
 
+
 # Define log format
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
 
